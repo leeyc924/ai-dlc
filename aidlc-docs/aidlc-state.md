@@ -1,14 +1,14 @@
 # AI-DLC State Tracking
 
 ## Project Information
-- **Project Name**: 테이블오더 서비스 (Table Order Service)
-- **Project Type**: Greenfield
-- **Start Date**: 2026-03-05T00:00:00Z
-- **Current Stage**: INCEPTION - Workflow Planning (Complete)
+- **Project Name**: (프로젝트 시작 시 자동 기록)
+- **Project Type**: (Greenfield / Brownfield)
+- **Start Date**: (워크플로우 시작 시 자동 기록)
+- **Current Stage**: (현재 진행 중인 단계)
 
 ## Workspace State
-- **Existing Code**: No
-- **Reverse Engineering Needed**: No
+- **Existing Code**: (Yes / No)
+- **Reverse Engineering Needed**: (Yes / No)
 - **Workspace Root**: .
 
 ## Code Location Rules
@@ -19,36 +19,36 @@
 ## Extension Configuration
 | Extension | Enabled | Decided At |
 |---|---|---|
-| security-baseline | No | Requirements Analysis |
+| (워크플로우 진행 시 자동 기록) | | |
 
 ## Execution Plan Summary
-- **Total Stages**: 5 (실행 대상)
-- **Stages to Execute**: Application Design, Units Generation, Functional Design (per-unit), Code Generation (per-unit), Build and Test
-- **Stages to Skip**: User Stories, NFR Requirements, NFR Design, Infrastructure Design
+- **Total Stages**: (워크플로우 계획 후 기록)
+- **Stages to Execute**: (실행 대상 단계 목록)
+- **Stages to Skip**: (건너뛸 단계 목록)
 
 ## Stage Progress
 
-### 🔵 INCEPTION PHASE
-- [x] Workspace Detection
-- [x] Requirements Analysis
-- [x] User Stories - SKIP
-- [x] Workflow Planning
-- [ ] Application Design - EXECUTE
-- [ ] Units Generation - EXECUTE
+### INCEPTION PHASE
+- [ ] Workspace Detection
+- [ ] Requirements Analysis
+- [ ] User Stories
+- [ ] Workflow Planning
+- [ ] Application Design
+- [ ] Units Generation
 
-### 🟢 CONSTRUCTION PHASE
-- [ ] Functional Design - EXECUTE (per-unit)
-- [ ] NFR Requirements - SKIP
-- [ ] NFR Design - SKIP
-- [ ] Infrastructure Design - SKIP
-- [ ] Code Generation - EXECUTE (per-unit)
-- [ ] Build and Test - EXECUTE
+### CONSTRUCTION PHASE
+- [ ] Functional Design (per-unit)
+- [ ] NFR Requirements
+- [ ] NFR Design
+- [ ] Infrastructure Design
+- [ ] Code Generation (per-unit)
+- [ ] Build and Test
 
-### 🟡 OPERATIONS PHASE
+### OPERATIONS PHASE
 - [ ] Operations - PLACEHOLDER
 
 ## Current Status
-- **Lifecycle Phase**: INCEPTION
-- **Current Stage**: Workflow Planning Complete
-- **Next Stage**: Application Design
-- **Status**: Awaiting user approval
+- **Lifecycle Phase**: (현재 단계)
+- **Current Stage**: (현재 스테이지)
+- **Next Stage**: (다음 스테이지)
+- **Status**: (상태)
